@@ -1,0 +1,5 @@
+=========================================
+This project implements a custom SquareMat class in C++ for working with square matrices. 
+The class supports a variety of matrix operations, including arithmetic, comparison, and matrix-specific operations
+ like multiplication, exponentiation, and finding the determinant.
+=========================================
